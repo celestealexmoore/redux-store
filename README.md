@@ -46,12 +46,13 @@
 
   This section reviews the web application's general appearance and functionality.  
 
-  The following animation shows how a user can register using the Signup page and then navigate to the Products page:
+
   ![A user registers on the Signup page and then navigates to the Products page, which displays images and descriptions of products.](./Assets/gif-1.gif)  
 
 
-  (./Assets/gif-2.gif)  
-  (./Assets/gif-3.gif)  
+  ![The user selects a category, chooses a product, views details about it on the product page, and adds it to and removes it from their shopping cart.](./Assets/gif-2.gif)  
+
+  ![The user checks out by going to their shopping cart.](./Assets/gif-3.gif)  
   
   ## Deployment
   [This project is deployed via Heroku.](./utils/readme-generator-vid.mov)
