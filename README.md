@@ -1,5 +1,4 @@
 # Redux Store
-  [![License: WTFPL](https://img.shields.io/badge/License-${license}.svg)]
 
   ## Table of Contents
 
@@ -44,7 +43,9 @@
   THEN I find that the app uses Redux instead of the Context API`
 
   ## Media
-  [Click this link to watch the mock-up video.](./utils/readme-generator-vid.mov)
+  (./Assets/gif-1.gif)  
+  (./Assets/gif-2.gif)  
+  (./Assets/gif-3.gif)  
   
   ## Deployment
   [This project is deployed via Heroku.](./utils/readme-generator-vid.mov)
@@ -64,5 +65,3 @@
 
   ## Project Status
   In Progress
-
-# redux-store
