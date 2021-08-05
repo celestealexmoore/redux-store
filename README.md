@@ -25,9 +25,9 @@
   This assignment involved refactoring an existing e-commerce platform so that it uses Redux.
 
   ## User-Story  
-  ```AS a senior engineer working on an e-commerce platform  
+  `AS a senior engineer working on an e-commerce platform  
   I WANT my platform to use Redux to manage global state instead of the Context API  
-  SO THAT my website's state management is taken out of the React ecosystem```   
+  SO THAT my website's state management is taken out of the React ecosystem`   
 
   ## Acceptance Criteria
   ```GIVEN an e-commerce platform that uses Redux to manage global state  
@@ -40,7 +40,7 @@
   WHEN I review the way the app extracts state data from the store  
   THEN I find that the app uses Redux instead of the Context API  
   WHEN I review the way the app dispatches actions  
-  THEN I find that the app uses Redux instead of the Context API```
+  THEN I find that the app uses Redux instead of the Context API```  
 
   ## Media
 
