@@ -30,7 +30,7 @@
   SO THAT my website's state management is taken out of the React ecosystem`   
 
   ## Acceptance Criteria
-  ```GIVEN an e-commerce platform that uses Redux to manage global state  
+  `GIVEN an e-commerce platform that uses Redux to manage global state  
   WHEN I review the app’s store  
   THEN I find that the app uses a Redux store instead of the Context API  
   WHEN I review the way the React front end accesses the store  
@@ -40,7 +40,7 @@
   WHEN I review the way the app extracts state data from the store  
   THEN I find that the app uses Redux instead of the Context API  
   WHEN I review the way the app dispatches actions  
-  THEN I find that the app uses Redux instead of the Context API```  
+  THEN I find that the app uses Redux instead of the Context API`  
 
   ## Media
 
