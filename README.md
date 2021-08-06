@@ -55,7 +55,7 @@
   ![The user checks out by going to their shopping cart.](./Assets/gif-3.gif)  
   
   ## Deployment
-  [This project is deployed via Heroku.](./utils/readme-generator-vid.mov)
+  [This project is deployed via Heroku.](https://polar-tundra-30130.herokuapp.com/)
   
   ## Installation
   
