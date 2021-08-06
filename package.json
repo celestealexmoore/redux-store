@@ -15,7 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "bcrypt": "^4.0.1",
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.1.0",
+    "graphql": "^15.5.1"
   },
   "repository": {
     "type": "git",
